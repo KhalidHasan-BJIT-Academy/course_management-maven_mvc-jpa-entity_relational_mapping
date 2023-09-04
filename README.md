@@ -61,3 +61,4 @@ Fetch students with course
 curl --location --request GET 'http://localhost:9191/student/course' \
 --data-raw ''
 ```
+# relational_mapping_jpa
