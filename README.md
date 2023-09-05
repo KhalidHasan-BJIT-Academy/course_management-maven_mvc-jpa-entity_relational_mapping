@@ -62,3 +62,4 @@ curl --location --request GET 'http://localhost:9191/student/course' \
 --data-raw ''
 ```
 # relational_mapping_jpa
+# assignment10_entity_mapping
