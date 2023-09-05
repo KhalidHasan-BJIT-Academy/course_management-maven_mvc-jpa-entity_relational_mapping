@@ -1,4 +1,4 @@
-package com.javatechie.entity;
+package com.entitymapping.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.AllArgsConstructor;

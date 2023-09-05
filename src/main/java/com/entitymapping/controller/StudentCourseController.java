@@ -1,9 +1,9 @@
-package com.javatechie.controller;
+package com.entitymapping.controller;
 
-import com.javatechie.entity.Course;
-import com.javatechie.entity.Student;
-import com.javatechie.respository.CourseRepository;
-import com.javatechie.respository.StudentRepository;
+import com.entitymapping.entity.Course;
+import com.entitymapping.entity.Student;
+import com.entitymapping.respository.CourseRepository;
+import com.entitymapping.respository.StudentRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

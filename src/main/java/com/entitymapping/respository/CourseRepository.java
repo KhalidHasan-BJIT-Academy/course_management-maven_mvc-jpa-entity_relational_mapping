@@ -1,6 +1,6 @@
-package com.javatechie.respository;
+package com.entitymapping.respository;
 
-import com.javatechie.entity.Course;
+import com.entitymapping.entity.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
